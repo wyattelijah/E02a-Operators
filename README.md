@@ -13,7 +13,7 @@ As always, Fork this repository, and then Clone it to your local computer.
 
 For this exercise, you will need to edit main.py. The file is broken into many functions (def blocks), each of which is designed to perform a basic operation. Many of these are arithmetic, some work with lists or strings, and others produce random values.
 
-To help you along, I have implemented the add function. Also, here are a few online resources that might help:
+To help you along, I have implemented the add function. Also, here are a few online resources that might be useful:
 
  * [Python operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
  * [Python built-in data types](https://realpython.com/python-data-types/)
